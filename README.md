@@ -3,6 +3,8 @@
 Contained in this repo are various applications to demonstrate Spring Framework features with traditional XML-based Configuration
 
 1.  **master**: Object creation without Spring
+2.  **simple-application-context**: ApplicationContext lookup of bean annotated with @Bean
+
 
 # License
 
