@@ -7,8 +7,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class SpringBeanConfiguration {
-    @Bean(name = "helloWorld")
-    public HelloWorld getHelloWorldBean(){
-        return new HelloWorld();
-    }
+//    @Bean(name = "helloWorld")
+//    public HelloWorld getHelloWorldBean(){
+//        return new HelloWorld();
+//    }
 }

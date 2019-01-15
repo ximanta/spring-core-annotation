@@ -19,5 +19,7 @@ public class Main {
         HelloWorld helloWorld = (HelloWorld) ctx.getBean("helloWorld");
 
         System.out.println(helloWorld.getMessage());
+        System.out.println(helloWorld.getQuote());
+
     }
 }

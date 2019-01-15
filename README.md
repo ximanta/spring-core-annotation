@@ -4,7 +4,7 @@ Contained in this repo are various applications to demonstrate Spring Framework 
 
 1.  **master**: Object creation without Spring
 2.  **simple-application-context**: ApplicationContext lookup of bean annotated with @Bean
-
+3.  **application-context**: Demonstration of ApplicationContext with Annotation
 
 # License
 
