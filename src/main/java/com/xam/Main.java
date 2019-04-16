@@ -17,7 +17,6 @@ public class Main {
         ctx.refresh();
 
         HelloWorld helloWorld = (HelloWorld) ctx.getBean("helloWorld");
-
         System.out.println(helloWorld.getMessage());
     }
 }
